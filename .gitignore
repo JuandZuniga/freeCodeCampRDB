@@ -1,3 +1,7 @@
 universe.sql:Zone.Identifier
 worldcup.sql:Zone.Identifier
 salon.sql:Zone.Identifier 
+periodic_table.sql:Zone.Identifier
+.devcontainer
+rdb-alpha
+element.sh:Zone.Identifier
