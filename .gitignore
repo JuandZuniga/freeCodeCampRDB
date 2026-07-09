@@ -5,3 +5,5 @@ periodic_table.sql:Zone.Identifier
 .devcontainer
 rdb-alpha
 element.sh:Zone.Identifier
+number_guess.sql:Zone.Identifier
+number_guess.sh:Zone.Identifier
